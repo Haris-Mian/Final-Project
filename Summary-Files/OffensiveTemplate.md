@@ -154,7 +154,7 @@ $ ls -lah
 mysql> select * from wp_posts;
 ``` 
   
-  ![flag3](https://github.com/srabbers/Final-Project/blob/3dcaf420cedc6e31b1b4a6fc0a2da6a49d115be1/Diagrams-and-Media/flag3.PN)
+  ![flag3](https://github.com/Haris-Mian/Final-Project/blob/74d2ac72bef99152d56ba6d78a91e02d98deb0b5/Diagrams-and-Media/flag3.PNG)
 
 **Flag 4** 
 
